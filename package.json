@@ -1,0 +1,15 @@
+{
+  "name": "FHCounterClass",
+  "version": "2.5.2",
+  "description": "Installs dependencies for development.",
+  "author": "Forest Hoffman <foresthoffman@users.noreply.github.com> (http://forest.stfhs.net/forest)",
+  "license": "GNU",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.3.0",
+    "time-grunt": "^1.2.1"
+  }
+}
